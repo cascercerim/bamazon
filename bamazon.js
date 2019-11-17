@@ -70,7 +70,7 @@ var display = function () {
                 return false;
             }
         }
-        // After the series of prompts
+
     }]).then(function (answers) {
 
 
